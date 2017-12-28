@@ -34,6 +34,7 @@ Requirements:
 How to run? 
 
 Go to main.py location and make sure all requirements setup was done properly.
+$python main.py
 
 
 Click to speech and talk.
